@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KMA71
+- 👋 Hi, My name is Max (aka Max K-ff)
 - 👀 I’m interested in Java dev
 - 🌱 I’m currently learning Spring...
 - 💞️ I’m looking to collaborate on Camunda
